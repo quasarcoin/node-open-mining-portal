@@ -1,9 +1,0 @@
-{
-    "name": "Yangcoin",
-    "symbol": "YNG",
-    "algorithm": "scrypt",
-    "peerMagic": "59414e47",
-    "peerMagicTestnet": "79616e67",
-    "addTimeStamp": true,
-    "reward": "POW"
-}
